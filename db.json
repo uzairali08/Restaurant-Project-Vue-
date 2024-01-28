@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "name": "Uzair Ali",
+      "email": "uzair7508@gmail.com",
+      "password": "123",
+      "id": 1
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "KFC",
+      "address": "Jinnah Park",
+      "contact": 1111,
+      "id": 1
+    },
+    {
+      "name": "McDonald",
+      "address": "Jinnah Park",
+      "contact": 2222,
+      "id": 2
+    },
+    {
+      "name": "Burger King",
+      "address": "Bahria Phase VII",
+      "contact": 3333,
+      "id": 3
+    },
+    {
+      "name": "La Montana",
+      "address": "Pir Sohawa",
+      "contact": 4444,
+      "id": 4
+    },
+    {
+      "name": "Monal Downtown",
+      "address": "Saddar",
+      "contact": 5555,
+      "id": 5
+    },
+    {
+      "name": "Chezious",
+      "address": "Kalma Chowk",
+      "contact": 6666,
+      "id": 6
+    },
+    {
+      "name": "Ranchers",
+      "address": "F10, Islamabad",
+      "contact": 7777,
+      "id": 7
+    }
+  ]
+}
